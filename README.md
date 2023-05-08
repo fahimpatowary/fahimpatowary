@@ -5,15 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [DMS Express](https://github.com/fahimpatowary/dms-expres-nextjs.git)
+- 🔭 I’m currently working on [DMS Express](https://benevolent-unicorn-663e4b.netlify.app)
 
 - 🌱 I’m currently learning **Node.js, Typescipt**
+
+- 👯 I’m looking to collaborate on [Ovander](https://bespoke-squirrel-7f2986.netlify.app)
+
+- 🤝 I’m looking for help with [Liton Dewan Chisti](https://fahimpatowary.github.io/liton-dewan-chisti/)
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/fahimpatowary/home?authuser=0](https://sites.google.com/view/fahimpatowary/home?authuser=0)
 
 - 💬 Ask me about **React, Next,js, Tailwinds CSS, Bootstra, MUI, HTML, CSSp**
 
 - 📫 How to reach me **patowaryfahim3@gmail.com, fahimjoy768@gamil.om**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vRm0Tc40xnZihFX9K_5SZXTFnfMJdWEV/view?usp=drivesdk](https://drive.google.com/file/d/1vRm0Tc40xnZihFX9K_5SZXTFnfMJdWEV/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am noting**
 
